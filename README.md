@@ -24,19 +24,31 @@
 
 ## 🧠 About Me
 
-```python
-yash = {
-    "role"        : "AI Engineer + Full-Stack Developer",
-    "stack"       : ["LangChain", "FastAPI", "React", "ChromaDB", "Groq", "HuggingFace"],
-    "building"    : "RAG pipelines, LLM systems, full-stack AI products",
-    "learning"    : ["Agentic workflows", "LangGraph", "LangSmith tracing"],
-    "prev"        : ["Founding Engineer @ Pioneer Sports", "ASE @ TCS"],
-    "cert"        : "Oracle Cloud Certified Generative AI Professional",
-    "open_to"     : "AI Engineer / Full-Stack roles — available now 🚀",
-    "cgpa"        : "9.51 / 10 — BE in AI & Data Science"
-}
-```
+> *"I don't just use AI tools — I build the systems underneath them."*
 
+🟢 &nbsp;**Open to AI Engineer & Full-Stack roles** — Mumbai, India · Remote
+
+| | |
+|---|---|
+| 🔭 **Building** | Chat with PDF — RAG pipeline · LangChain LCEL · ChromaDB · Groq · Zero OpenAI dependency |
+| 🧠 **Deep in** | LangGraph · LangSmith · CRAG · Self-RAG · Re-ranking · FastEmbed ONNX |
+| 🎓 **Education** | BE in AI & Data Science · CGPA 9.51 · Oracle Certified GenAI Professional |
+
+<br>
+
+**💼 Experience**
+
+| Role | Company | Period |
+|---|---|---|
+| 🏗️ Founding Engineer — Tech & Operations | Pioneer Sports Consultancy LLP | Jan 2026 – Present |
+| 🤝 Consultant (Freelance) | Sportify LLP | Jan 2026 – Present |
+| 💻 Assistant System Engineer | Tata Consultancy Services | Dec 2024 – Dec 2025 |
+| 🛠️ Full Stack Developer Intern | K3Y Technology Services · Sahayata24x7 | Oct 2023 – Feb 2024 |
+
+<br>
+
+**Stack:**
+`LangChain` `FastAPI` `React` `Next.js` `Django` `ChromaDB` `FAISS` `HuggingFace` `Groq` `Ollama` `PostgreSQL` `Docker` `YOLOv7` `DistilBERT` `LangSmith`
 ---
 
 ## 🛠️ Tech Stack
