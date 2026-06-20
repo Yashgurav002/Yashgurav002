@@ -98,12 +98,12 @@ End-to-end RAG pipeline with token-by-token SSE streaming and source chunk attri
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Sentiment Analysis — HuggingFace Space
-**[🔗 Live Demo](https://huggingface.co/spaces/Yash-2002/SentimentAnalysisBasic)**
+### ⚽ TacticLens — Football Tactics RAG Chatbot
+**[🔗 Live Demo](https://yash-2002-tacticlens.hf.space)**
 
-Deployed NLP model on HuggingFace Spaces for real-time sentiment classification.
+RAG chatbot grounded in real StatsBomb data. Two-tier retrieval: guaranteed match summary + MMR search for event chunks. Not generic LLM trivia — actual football intelligence.
 
-`HuggingFace` `Transformers` `Python` `Gradio`
+`FastAPI` `LangChain` `ChromaDB` `Groq` `StatsBomb`
 
 </td>
 </tr>
