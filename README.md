@@ -1,205 +1,58 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Gurav&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=58&descAlign=50" />
-</div>
+<a href="https://yash-gurav-portfolio.vercel.app"><img src="assets/portfolio.png" alt="Yash Gurav: Don't read my resume. Ask it." width="100%"></a>
 
-<div align="center">
+# Hi, I'm Yash 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+RAG+pipelines+%26+LLM+systems;Full-Stack+%7C+FastAPI+%7C+React+%7C+LangChain;Oracle+Certified+GenAI+Professional;Open+to+AI+Engineer+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+AI engineer in Mumbai. I fine-tune small open models, build agents that are allowed to say "I don't know", and ship internal tools to people who aren't engineers.
 
-</div>
+**Portfolio:** [yash-gurav-portfolio.vercel.app](https://yash-gurav-portfolio.vercel.app). It has an AI agent that answers questions about my work, cites its sources, and lets you try to break it.
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gurav-58bbba21a/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yash_gurav_2002)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Yash-2002)
-[![Oracle Certified](https://img.shields.io/badge/Oracle%20GenAI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Yashgurav002)
-[![Profile Views](https://komarev.com/ghpvc/?username=Yashgurav002&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/Yashgurav002)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff8f3f?style=flat-square&logoColor=black)](https://yash-gurav-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gurav-58bbba21a/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yash_gurav_2002)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Yash-2002)
+[![Email](https://img.shields.io/badge/yashgurav002%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashgurav002@gmail.com)
 
 ---
 
-## 🧠 About Me
+## Selected work
 
-> *"I don't just use AI tools — I build the systems underneath them."*
+| Project | What it is | Result | Links |
+|---|---|---|---|
+| **[PF Desk](https://github.com/Yashgurav002/pf-desk)** | A private back office for Provident Fund consultants: pre-checks claims and decodes EPFO rejection remarks into fixes, on a laptop. Qwen3-8B + LoRA, Temporal, PGlite + pgvector, Next.js | **72%** correct on 148 real remarks it never saw, vs 53% for the base model | [Case study](https://yash-gurav-portfolio.vercel.app/work/pf-desk) · [Demo](https://pfdesk.buildwithyash.tech) |
+| **[Sitspot](https://github.com/Yashgurav002/sitspot)** | A proactive voice agent that watches outdoor spots with open data and calls you when a good window opens. Temporal, MCP, Gemma, ElevenLabs | Unsafe advice cut from **12.5% to 2.5%** after red-teaming | [Case study](https://yash-gurav-portfolio.vercel.app/work/sitspot) · [Demo](https://sitspot.vercel.app) |
+| **[Hearsay](https://github.com/Yashgurav002/hearsay)** | Agent memory for game characters: they remember what you did and gossip along trust lines, with provenance. FalkorDB, FastAPI, React Three Fiber | **500** worlds load-tested at ~1 ms reads | [Case study](https://yash-gurav-portfolio.vercel.app/work/hearsay) · [Demo](https://hearsay-six.vercel.app) |
+| **Divine Solitaires** (work) | Internal tools for pricing, inventory custody, dashboards and a savings scheme, used daily by non-technical teams | **90%+** less time to price a batch; a ledger race closed across 9 writers | [Case study](https://yash-gurav-portfolio.vercel.app/work/divine) |
 
-🟢 &nbsp;**Open to AI Engineer & Full-Stack roles** — Mumbai, India · Remote
+<details>
+<summary><b>Earlier projects</b></summary>
 
-| | |
+- **[Chat with PDF](https://github.com/Yashgurav002/-chat-with-pdf)**: RAG with token streaming and source attribution. FastAPI, LangChain, ChromaDB, Groq. [Demo](https://chat-with-pdf-amber-chi.vercel.app/)
+- **[TacticLens](https://github.com/Yashgurav002/TacticsLens-)**: a football tactics RAG chatbot grounded in StatsBomb data. [Demo](https://yash-2002-tacticlens.hf.space)
+- **[UrbanSage](https://github.com/Yashgurav002/urbansage-project)**: a civic platform with DistilBERT complaint classification. Next.js, React Native, FastAPI
+- **Jeev Rakshak**: real-time animal detection with YOLOv7 and a React alert dashboard
+
+</details>
+
+---
+
+## Experience
+
+| Period | Role |
 |---|---|
-| 🔭 **Building** | Chat with PDF — RAG pipeline · LangChain LCEL · ChromaDB · Groq · Zero OpenAI dependency |
-| 🧠 **Deep in** | LangGraph · LangSmith · CRAG · Self-RAG · Re-ranking · FastEmbed ONNX |
-| 🎓 **Education** | BE in AI & Data Science · CGPA 9.51 · Oracle Certified GenAI Professional |
+| Jul 2026 – now | **Junior Front End Engineer**, R S Diamond (Divine Solitaires) |
+| Mar 2026 – Jul 2026 | **Founding Engineer (Tech & Operations)**, Pioneer Sports Consultancy |
+| Jan 2026 – Jul 2026 | **Consultant (freelance, part-time)**, Sportify LLP |
+| Dec 2024 – Mar 2026 | **Assistant System Engineer**, Tata Consultancy Services |
+| Oct 2023 – Feb 2024 | **Full Stack Developer Intern**, K3Y Technology Services (Sahayata24x7) |
 
-<br>
+**Education:** B.E. in Artificial Intelligence and Data Science, Fr. Conceicao Rodrigues College of Engineering, Mumbai University. CGPA 9.51/10.
 
-**💼 Experience**
-
-| Role | Company | Period |
-|---|---|---|
-| 🏗️ Founding Engineer — Tech & Operations | Pioneer Sports Consultancy LLP | Jan 2026 – Present |
-| 🤝 Consultant (Freelance) | Sportify LLP | Jan 2026 – Present |
-| 💻 Assistant System Engineer | Tata Consultancy Services | Dec 2024 – Dec 2025 |
-| 🛠️ Full Stack Developer Intern | K3Y Technology Services · Sahayata24x7 | Oct 2023 – Feb 2024 |
-
-<br>
-
-**Stack:**
-`LangChain` `FastAPI` `React` `Next.js` `Django` `ChromaDB` `FAISS` `HuggingFace` `Groq` `Ollama` `PostgreSQL` `Docker` `YOLOv7` `DistilBERT` `LangSmith`
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**AI / ML & LLMs**
-
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css&theme=dark)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,nodejs,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
-
-**Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,vscode,postman&theme=dark)](https://skillicons.dev)
-
-</div>
+**Certifications:** Oracle Cloud Infrastructure Generative AI Professional (2025), AI Foundations Associate (2025), Foundations Associate (2025).
 
 ---
 
-## 🚀 Featured Projects
+## How I work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Spec first, then build with Claude Code, Codex and Cursor inside guardrails I set up: an impact check before editing inherited code, no writes to live data, and end-to-end checks on every change. I measure with evals, keep the baselines and the failures, and label synthetic data as synthetic.
 
-### 💬 Chat with PDF — RAG Q&A App
-**[🔗 Live Demo](https://chat-with-pdf-amber-chi.vercel.app/)**
-
-End-to-end RAG pipeline with token-by-token SSE streaming and source chunk attribution. Zero OpenAI dependency.
-
-`FastAPI` `LangChain LCEL` `ChromaDB` `Groq` `FastEmbed (ONNX)` `React` `Vite`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚽ TacticLens — Football Tactics RAG Chatbot
-**[🔗 Live Demo](https://yash-2002-tacticlens.hf.space)**
-
-RAG chatbot grounded in real StatsBomb data. Two-tier retrieval: guaranteed match summary + MMR search for event chunks. Not generic LLM trivia — actual football intelligence.
-
-`FastAPI` `LangChain` `ChromaDB` `Groq` `StatsBomb`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐾 Jeev Rakshak — Animal Detection
-Real-time animal detection at 30+ FPS using YOLOv7 + transfer learning. React dashboard with frame-level alert overlays.
-
-`Python` `YOLOv7` `Transfer Learning` `CNN` `React`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏙️ UrbanSage — Smart City Platform
-Full-stack civic platform with 90%+ DistilBERT classification accuracy. Cross-platform (React Native + Next.js web).
-
-`FastAPI` `Next.js` `React Native` `DistilBERT` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yashgurav002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashgurav002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yashgurav002&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yashgurav002&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashgurav002&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashgurav002/Yashgurav002/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashgurav002/Yashgurav002/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashgurav002/Yashgurav002/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🏅 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| ☁️ Oracle Cloud Generative AI Professional | Oracle | July 2025 |
-| ☁️ Oracle Cloud AI Foundations Associate | Oracle | April 2025 |
-| ☁️ Oracle Cloud Foundations Associate | Oracle | May 2025 |
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-**Open to AI Engineer and Full-Stack Developer roles. If you're building something real — let's talk.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gurav-58bbba21a/)
-[![Email](https://img.shields.io/badge/yashgurav002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashgurav002@gmail.com)
-[![Twitter](https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yash_gurav_2002)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+**Stack:** Python · TypeScript · Next.js · React · FastAPI · Django · Hono · PostgreSQL + pgvector · FalkorDB · Temporal · Docker · LoRA fine-tuning · RAG and hybrid search · agents and tool calling · MCP · Ollama · llama.cpp
